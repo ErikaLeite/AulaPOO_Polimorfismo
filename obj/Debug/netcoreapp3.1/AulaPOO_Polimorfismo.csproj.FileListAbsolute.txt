@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo.genruntimeconfig.cache
